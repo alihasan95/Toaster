@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">toasterlibrary</string>
+    <string name="error_message">حدث خطا ما</string>
+</resources>
